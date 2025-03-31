@@ -6,3 +6,4 @@ tensorflow  # If using deep learning
 scikit-learn  # If using machine learning
 sqlalchemy  # If connecting to a database
 requests  # If making API calls
+seaborn
